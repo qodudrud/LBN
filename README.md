@@ -1,1 +1,3 @@
-# LBN
+# Langevin Bayesian Networks (LBN)
+
+The code is preparing...
