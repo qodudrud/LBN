@@ -11,6 +11,14 @@ Pervasive across diverse domains, stochastic systems exhibit fluctuations in pro
 
 <center><img src="fig1.png" width="100%"/></center>
 
+## Getting started
+
+We implemented our algorithm (basically) with ``Python 3.6.13`` and ``PyTorch==1.10.2``.
+
+```
+git clone https://github.com/qodudrud/LBN.git
+```
+
 ## Bibtex
 Cite the following BibTeX.
 ```bibtex
